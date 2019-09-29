@@ -8,5 +8,5 @@ version:0.1
 Author:王量
 """
 # 你好
-print("你好!祖国")
+print("你好!祖国.")
 
